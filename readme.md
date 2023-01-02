@@ -1,6 +1,6 @@
 # Awesome Playgrounds [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of playgrounds that let you run code in your browser.
+> A curated list of interactive playgrounds that let you run code in your browser.
 
 This list was inspired by [this tweet from @rauchg](https://twitter.com/rauchg/status/1609633615511711747).
 
