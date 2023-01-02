@@ -11,7 +11,6 @@ This list was inspired by [this tweet from @rauchg](https://twitter.com/rauchg/s
 - [Dart](#dart)
 - [Elm](#elm)
 - [Go](#go)
-- [Haskell](#haskell)
 - [JavaScript](#javascript)
   - [Frameworks](#frameworks)
   - [Libraries](#libraries)
@@ -23,110 +22,104 @@ This list was inspired by [this tweet from @rauchg](https://twitter.com/rauchg/s
 - [Rust](#rust)
 - [Scala](#scala)
 - [Swift](#swift)
-- [Contribute](#contribute)
 
 
 ## General
 
-- [Wandbox](https://wandbox.org) ![Platform](https://img.shields.io/static/v1?label=&message=Platform&color=green)
+- [Wandbox](https://wandbox.org) - Online compiler service (and API) that supports many languages.
+
 
 ### Web Development
 
-- [CodePen](https://codepen.io/pen/) ![Platform](https://img.shields.io/static/v1?label=&message=Platform&color=green)
-- [CodeSandbox](https://codesandbox.io/s/) ![Platform](https://img.shields.io/static/v1?label=&message=Platform&color=green)
-- [StackBlitz](https://stackblitz.com) ![Platform](https://img.shields.io/static/v1?label=&message=Platform&color=green)
-- [Replit](https://repl.it) ![Platform](https://img.shields.io/static/v1?label=&message=Platform&color=green)
+- [CodePen](https://codepen.io/pen/) - Online code editor and sharing platform for front-end designers and developers.
+- [GraphiQL Demo](https://graphql.org/swapi-graphql) - Live demo of [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql), an in-browser GraphQL IDE.
+- [Replit](https://repl.it) - Online IDE, compiler and interpreter supporting 50+ languages.
 
 
 ## Dart
 
-- [DartPad](https://dartpad.dev) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
+- [DartPad](https://dartpad.dev) - Official open-source playground for Dart.
 
 
 ## Elm
 
-- [Try Elm](https://elm-lang.org/try) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
+- [Try Elm](https://elm-lang.org/try) - Official playground for Elm.
 
 
 ## Go
 
-- [Go](https://go.dev/play/) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
-
-
-## Haskell
-
-- [Try Haskell](https://tryhaskell.org) ![Third-Party](https://img.shields.io/static/v1?label=&message=Third-Party)
+- [Go](https://go.dev/play/) - Official playground for Go.
 
 
 ## JavaScript 
 
-- [JSFiddle](https://jsfiddle.net) ![Platform](https://img.shields.io/static/v1?label=&message=Platform&color=green)
-- [TypeScript](https://www.typescriptlang.org/play) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
-- [Babel REPL](https://babeljs.io/repl) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
+- [CodeSandbox](https://codesandbox.io/s/) - Open-source online code editor and prototyping tool for JavaScript web apps.
+- [StackBlitz](https://stackblitz.com) - Cloud-based fullstack web IDE for the JavaScript ecosystem.
+- [JSFiddle](https://jsfiddle.net) - Online code editor for running JavaScript, CSS, HTML or CoffeeScript.
+- [TypeScript](https://www.typescriptlang.org/play) - Official TypeScript playground.
+- [Babel REPL](https://babeljs.io/repl) - REPL that compiles ES6+ code for backwards-compatibility.
 
 ### Frameworks
 
-- [Expo Snack (React Native)](https://snack.expo.dev) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
-- [Preact REPL](https://preactjs.com/repl) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
-- [Qwik](https://qwik.builder.io/playground/) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
-- [Solid.js](https://playground.solidjs.com) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
-- [Svelte REPL](https://svelte.dev/repl) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
-- [Vue.js SFC](https://sfc.vuejs.org) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
+- [Expo Snack](https://snack.expo.dev) - Online code editor for running and sharing React Native apps.
+- [Preact REPL](https://preactjs.com/repl) - Official REPL for Preact.
+- [Qwik](https://qwik.builder.io/playground/) - Official playground and compiler for Qwik.
+- [Solid.js](https://playground.solidjs.com) - Official playground and compiler for Solid.js.
+- [Svelte REPL](https://svelte.dev/repl) - Official REPL for Svelte.
+- [Vue.js SFC](https://sfc.vuejs.org) - Official playground for Vue.js Single File Components.
 
 ### Libraries
 
-- [Axiom](https://play.axiom.co) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
-- [Code Hike](https://play.codehike.org) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
-- [ESLint](https://eslint.org/play/) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
-- [GraphiQL Demo](https://graphql.org/swapi-graphql) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
-- [Lexical](https://playground.lexical.dev) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
-- [MDX](https://mdxjs.com/playground/) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
-- [Prettier](https://prettier.io/playground/) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
-- [Tailwind CSS](https://play.tailwindcss.com) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
-- [TypeScript-ESLint](https://typescript-eslint.io/play/) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
+- [Code Hike](https://play.codehike.org) - Playground for Code Hike, a library for code visualization.
+- [ESLint](https://eslint.org/play/) - Playground for ESLint, a JavaScript linter. 
+- [Lexical](https://playground.lexical.dev) - Playground for Lexical, an extensible text editor.
+- [MDX](https://mdxjs.com/playground/) - Playground for MDX, which enables you to use JSX in Markdown.
+- [Prettier](https://prettier.io/playground/) - Playground for Prettier, an opinionated code formatter.
+- [Tailwind CSS](https://play.tailwindcss.com) - Playground for Tailwind CSS, a utility-first CSS framework.
+- [TypeScript-ESLint](https://typescript-eslint.io/play/) - Playground for TypeScript-ESLint, a TypeScript linter.
 
 
 ## Kotlin
 
-- [Kotlin](https://play.kotlinlang.org) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
+- [Kotlin](https://play.kotlinlang.org) - Official playground for Kotlin.
 
 
 ## Lua
 
-- [Lua Demo](https://www.lua.org/demo.html) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
+- [Lua Demo](https://www.lua.org/demo.html) - Official demo of the Lua interpreter.
 
 
 ## PHP
 
-- [Laravel Playground](https://laravelplayground.com) ![Third-Party](https://img.shields.io/static/v1?label=&message=Third-Party)
-- [Play: Composer Playground](https://play.phpsandbox.io) ![Third-Party](https://img.shields.io/static/v1?label=&message=Third-Party)
+- [Laravel Playground](https://laravelplayground.com) - Playground for Laravel, a PHP framework.
+- [PHPSandbox Play](https://play.phpsandbox.io) - Playground for Composer, a PHP dependency manager.
 
 
 ## PureScript
 
-- [Try PureScript](https://try.purescript.org) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
+- [Try PureScript](https://try.purescript.org) - Online code editor for PureScript code snippets and ideas.
 
 
 ## Python
 
-- [Python Shell](https://www.python.org/shell/) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
-- [Jupyter Notebook](https://jupyter.org/try) ![Third-Party](https://img.shields.io/static/v1?label=&message=Third-Party)
+- [Python Shell](https://www.python.org/shell/) - Official Python shell running in the browser.
+- [Jupyter Notebook](https://jupyter.org/try) - Official Jupyter Notebook playgrounds.
 
 ## Rust
 
-- [Rust](https://play.rust-lang.org) ![Official](https://img.shields.io/static/v1?label=&message=Official&color=informational)
+- [Rust](https://play.rust-lang.org) - An official browser interface to the Rust compiler.
 
 
 ## Scala
 
-- [Scastie](https://scastie.scala-lang.org) ![Third-Party](https://img.shields.io/static/v1?label=&message=Third-Party)
+- [Scastie](https://scastie.scala-lang.org) - Interactive playground for Scala.
 
 
 ## Swift
 
-- [Awesome Swift Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme) ![Awesome](https://awesome.re/badge.svg)
-- [SwiftFiddle](https://swiftfiddle.com) ![Third-Party](https://img.shields.io/static/v1?label=&message=Third-Party)
+- [Awesome Swift Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme) - A curated list of Swift playgrounds.
+- [SwiftFiddle](https://swiftfiddle.com) - Online playground for creating, sharing and embedding Swift code snippets.
 
-## Contribute
+## Contributing
 
 Contributions welcome! Please read the [contribution guidelines](contributing.md) first.
