@@ -62,6 +62,7 @@ This list was inspired by [this tweet from @rauchg](https://twitter.com/rauchg/s
 ### Frameworks
 
 - [Expo Snack](https://snack.expo.dev) - Online code editor for running and sharing React Native apps.
+- [Lit](https://lit.dev/playground/) - Official playground for Lit, a Web Components library.
 - [Preact REPL](https://preactjs.com/repl) - Official REPL for Preact.
 - [Qwik](https://qwik.builder.io/playground/) - Official playground and compiler for Qwik.
 - [Solid.js](https://playground.solidjs.com) - Official playground and compiler for Solid.js.
@@ -73,6 +74,9 @@ This list was inspired by [this tweet from @rauchg](https://twitter.com/rauchg/s
 - [Code Hike](https://play.codehike.org) - Playground for Code Hike, a library for code visualization.
 - [ESLint](https://eslint.org/play/) - Playground for ESLint, a JavaScript linter. 
 - [Lexical](https://playground.lexical.dev) - Playground for Lexical, an extensible text editor.
+- [Prisma](https://playground.prisma.io) - Playground for Prisma, an ORM for Node.js and TypeScript.
+- [Rome](https://docs.rome.tools/playground/) - Playground for Rome, a unified formatter and linter, with a compiler and bundler coming soon.
+- [Markdoc](https://markdoc.dev/sandbox/) - Playground for Markdoc, a Markdown-based authoring library.
 - [MDX](https://mdxjs.com/playground/) - Playground for MDX, which enables you to use JSX in Markdown.
 - [Prettier](https://prettier.io/playground/) - Playground for Prettier, an opinionated code formatter.
 - [Tailwind CSS](https://play.tailwindcss.com) - Playground for Tailwind CSS, a utility-first CSS framework.
