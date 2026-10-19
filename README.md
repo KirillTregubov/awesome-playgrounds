@@ -34,7 +34,7 @@ This list was inspired by [this tweet from @rauchg](https://twitter.com/rauchg/s
 - [CodePen](https://codepen.io/pen/) - Online code editor and sharing platform for front-end designers and developers.
 - [GraphiQL Demo](https://graphql.org/swapi-graphql) - Live demo of [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql), an in-browser GraphQL IDE.
 - [Replit](https://repl.it) - Online IDE, compiler and interpreter supporting 50+ languages.
-
+- [CodeLive Studio](https://codelivestudio.cyou) - Free browser playground suite (HTML/CSS/JS, Python, JSON formatter, regex, Markdown) with zero signup and client-side only.
 
 ## Dart
 
